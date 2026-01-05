@@ -68,11 +68,15 @@ https://github.com/dream434/gofuzz/releases
 
 chmod +x gofuzz
 ./gofuzz --help
+```
 
 
----
 
-## ✍️ À propos de l'auteur
+
+
+
+
+### ✍️ À propos de l'auteur
 
 Ce projet a été conçu et développé avec passion par **Jonathan L**.
 
