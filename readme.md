@@ -36,7 +36,7 @@ Grâce à la puissance du langage Go, ce projet transforme votre smartphone en u
 ## 🛠 Installation & Setup
 
 ### 1. Téléchargement
-Récupérez le binaire correspondant à votre architecture dans l'onglet [Releases](../../releases) de ce dépôt.
+Récupérez le binaire correspondant à votre architecture ici https://github.com/dream434/gofuzz/releases .
 
 ### 2. Déploiement via ADB
 Connectez votre téléphone en mode Debug USB et utilisez les commandes suivantes :
@@ -64,7 +64,7 @@ uname -m
 # Téléchargement (exemple pour arm64-v8a)
 
 
-Récupérez le binaire correspondant à votre architecture dans l'onglet [Releases](../../releases) .
+https://github.com/dream434/gofuzz/releases
 
 
 ---
