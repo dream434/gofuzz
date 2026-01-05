@@ -65,5 +65,19 @@ uname -m
 
 
 wget [https://github.com/VOTRE_NOM/VOTRE_REPO/releases/latest/download/gofuzz-arm64-v8a](https://github.com/VOTRE_NOM/VOTRE_REPO/releases/latest/download/gofuzz-arm64-v8a) -O gofuzz
+
+
+---
+
+## ✍️ À propos de l'auteur
+
+Ce projet a été conçu et développé avec passion par **Jonathan L**.
+
+Si vous appréciez cet outil ou si vous souhaitez contribuer à son amélioration, n'hésitez pas à :
+* 🌟 Laisser une étoile (**Star**) sur le dépôt pour soutenir le projet.
+* 🐛 Signaler des bugs ou proposer des fonctionnalités via les **Issues**.
+* 📬 Me suivre sur GitHub pour découvrir mes prochains outils de sécurité.
+
+---
 chmod +x gofuzz
 ./gofuzz --help
