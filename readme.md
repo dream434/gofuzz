@@ -64,7 +64,7 @@ uname -m
 # Téléchargement (exemple pour arm64-v8a)
 
 
-wget [https://github.com/VOTRE_NOM/VOTRE_REPO/releases/latest/download/gofuzz-arm64-v8a](https://github.com/VOTRE_NOM/VOTRE_REPO/releases/latest/download/gofuzz-arm64-v8a) -O gofuzz
+Récupérez le binaire correspondant à votre architecture dans l'onglet [Releases](../../releases) .
 
 
 ---
