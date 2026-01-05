@@ -66,6 +66,9 @@ uname -m
 
 https://github.com/dream434/gofuzz/releases
 
+chmod +x gofuzz
+./gofuzz --help
+
 
 ---
 
@@ -79,5 +82,4 @@ Si vous appréciez cet outil ou si vous souhaitez contribuer à son amélioratio
 * 📬 Me suivre sur GitHub pour découvrir mes prochains outils de sécurité.
 
 ---
-chmod +x gofuzz
-./gofuzz --help
+
