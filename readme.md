@@ -41,7 +41,7 @@ Récupérez le binaire correspondant à votre architecture ici https://github.co
 ### 2. Déploiement via ADB
 Connectez votre téléphone en mode Debug USB et utilisez les commandes suivantes :
 
-```bash
+
 # Envoyer le binaire sur le téléphone
 adb push gofuzz-arm64-v8a /data/local/tmp/gofuzz
 
